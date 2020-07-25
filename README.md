@@ -1,6 +1,6 @@
 # Classify News with CNN
 
-#Usage
+# Usage
 
 Train the model by running `python train`. It will run 20 epochs and save the model as pb format.
 
